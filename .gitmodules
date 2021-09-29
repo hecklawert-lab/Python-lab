@@ -1,0 +1,3 @@
+[submodule "SSHBanners"]
+	path = SSHBanners
+	url = https://github.com/hecklawert/SSHBanners.git
